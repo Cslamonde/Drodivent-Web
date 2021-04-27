@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Anurati;
+    font-weight: 700;
+}
+
+h3 {
+    text-align: center;
+}
+
+nav {
+    text-shadow: 50px;
+    padding: 0px;
+    transform: matrix(-50px, -50px);
+    font-family: Times 'Times New Roman', Times, serif;
+}
+
+.foot {
+    padding: auto;
+    shape-margin: 500pt;
+    shape-outside: ellipse();
+}
+
+.barr {
+    position: relative;
+    pointer-events: visibleFill;
+    color: rgb(47, 214, 5);
+}
